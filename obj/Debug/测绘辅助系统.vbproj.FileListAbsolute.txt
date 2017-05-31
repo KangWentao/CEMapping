@@ -1,0 +1,52 @@
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form10.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form11.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form12.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form13.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form14.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form2.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form3.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form4.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form5.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form6.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form7.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form8.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form9.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Resources.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\测绘辅助系统.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.xml
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.FormAbout.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form17.resources
+C:\Documents and Settings\Administrator\My Documents\Visual Studio 2008\Projects\SmartDeviceProject1\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form18.resources
+C:\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.exe
+C:\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.pdb
+C:\SmartDeviceProject1\bin\Debug\SmartDeviceProject1.xml
+C:\SmartDeviceProject1\obj\Debug\ResolveAssemblyReference.cache
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form1.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form10.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form11.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form12.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form13.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form14.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form17.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form18.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.FormAbout.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form2.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form3.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form4.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form5.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form6.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form7.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form8.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Form9.resources
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.Resources.resources
+C:\SmartDeviceProject1\obj\Debug\测绘辅助系统.vbproj.GenerateResource.Cache
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.exe
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.xml
+C:\SmartDeviceProject1\obj\Debug\SmartDeviceProject1.pdb
